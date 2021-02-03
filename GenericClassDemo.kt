@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 06/09/17.
- */
+
 class PrintMyData<T>(n1:T)
 {
     init {

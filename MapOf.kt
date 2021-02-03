@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 05/09/17.
- */
+
 fun main(args: Array<String>) {
 
     var map = hashMapOf<Int,String>(1 to "Mahesh",2 to "ganesh",44 to "Suresh")

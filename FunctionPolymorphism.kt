@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 06/09/17.
- */
+
 
 fun show(n1:Int)
 {

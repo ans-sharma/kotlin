@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 06/09/17.
- */
+
 enum class MyCalender{
     YEAR,MONTH,DATE,DAY,MINUTE,SECONDS
 }

@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 07/09/17.
- */
+
 class MyThread():Thread()
 {
     var threadName:String? = null

@@ -1,7 +1,3 @@
-/**
- * Created by MaheshRakheja on 05/09/17.
- */
-
 
 fun main(args: Array<String>) {
 

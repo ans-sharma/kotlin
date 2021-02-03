@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 06/09/17.
- */
+
 interface event{
     fun marriage(name1:String,name2:String)
 }

@@ -1,6 +1,4 @@
-/**
- * Created by MaheshRakheja on 06/09/17.
- */
+
 
 fun sumy(n1:Int,n2:Int):Int
 {

@@ -1,8 +1,5 @@
 import java.util.*
 
-/**
- * Created by MaheshRakheja on 05/09/17.
- */
 fun main(args: Array<String>) {
 
     var arrVal = Array<Int>(5){0}

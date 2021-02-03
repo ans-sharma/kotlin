@@ -1,9 +1,6 @@
 import java.io.FileReader
 import java.io.FileWriter
 
-/**
- * Created by MaheshRakheja on 07/09/17.
- */
 fun writeToFile(filename:String,data:String):Unit{
     try {
         var fo = FileWriter(filename, true)
